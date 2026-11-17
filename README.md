@@ -2,7 +2,7 @@
 <div align="center">
 
 # João Victor de Souza Pereira da Costa Salústio
-### 🎓 Estudante de Engenharia da Computação
+### 🎓 Estudante de Engenharia da Computação UFRN
 
 </div>
 
@@ -10,7 +10,7 @@
 
 ## 👨‍💻 Sobre mim
 
-- Graduando em **Engenharia da Computação**.
+- Graduando em **Engenharia da Computação** na **UFRN**.
 - Bolsista na parte de banco de dados do projeto de **Renovação da carta estratigráfica da Bacia do Parnaíba**.
 - Experiência com áreas como **Inteligência Artificial, Machine Learning, Robótica, Banco de Dados**.
 
@@ -42,15 +42,17 @@
 
 </div>
 
-## 📫 Contato
+
+## 📫 Contato e Redes Profissionais
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-Joao--2507-181717?style=for-the-badge&logo=github)](https://github.com/Joao-2507)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:salustiojoaovictor@gmail.com)
+
+[![Lattes](https://img.shields.io/badge/Currículo_Lattes-005CA9?style=for-the-badge&logo=readme&logoColor=white)](http://lattes.cnpq.br/7048388853999078)
 
 </div>
 
----
 
 <div align="center">
 
