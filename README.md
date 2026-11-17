@@ -1,11 +1,8 @@
 
 <div align="center">
 
-# Olá, eu sou João Victor! 👋
-
+# João Victor de Souza Pereira da Costa Salústio
 ### 🎓 Estudante de Engenharia da Computação
-
-Apaixonado por tecnologia, programação e resolução de problemas.
 
 </div>
 
@@ -13,11 +10,9 @@ Apaixonado por tecnologia, programação e resolução de problemas.
 
 ## 👨‍💻 Sobre mim
 
-- 🎓 Graduando em **Engenharia da Computação**.
-- 🔬 Interesse em **Pesquisa e Desenvolvimento Tecnológico**.
-- 💻 Interesse em **Desenvolvimento de Software e Banco de Dados**.
-- 🤖 Explorando áreas como **Inteligência Artificial, Machine Learning e Robótica**.
-- 📚 Sempre buscando aprimorar meus conhecimentos e desenvolver novas habilidades.
+- Graduando em **Engenharia da Computação**.
+- Bolsista na parte de banco de dados do projeto de **Renovação da carta estratigráfica da Bacia do Parnaíba**.
+- Experiência com áreas como **Inteligência Artificial, Machine Learning, Robótica, Banco de Dados**.
 
 ---
 
