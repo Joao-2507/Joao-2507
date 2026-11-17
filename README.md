@@ -43,15 +43,17 @@
 </div>
 
 
+
 ## 📫 Contato e Redes Profissionais
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:salustiojoaovictor@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=salustiojoaovictor@gmail.com)
 
 [![Lattes](https://img.shields.io/badge/Currículo_Lattes-005CA9?style=for-the-badge&logo=readme&logoColor=white)](http://lattes.cnpq.br/7048388853999078)
 
 </div>
+
 
 
 <div align="center">
